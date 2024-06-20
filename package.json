@@ -2,7 +2,7 @@
   "name": "node-starter",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "ts-node ./dev.ts"
   },
   "dependencies": {
     "@rspack/core": "0.7.3",
